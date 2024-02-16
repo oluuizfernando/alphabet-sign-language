@@ -4,7 +4,7 @@ from keras.models import load_model
 import numpy as np
 
 #tensorFlow versão 2.9.1
-
+#
 cap = cv2.VideoCapture(0)
 
 hands = mp.solutions.hands.Hands(max_num_hands=1)
