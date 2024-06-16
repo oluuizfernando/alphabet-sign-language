@@ -19,16 +19,20 @@ Este é um projeto em Python que utiliza a biblioteca MediaPipe, OpenCV, NumPy e
 
    ```bash
    https://github.com/oluuizfernando/alphabet-sign-language.git
-
+   ```
+   
 2.Instale as dependências:
 
-  pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
+   ```
 
-## Uso
-
+## Uso 
 Execute o script principal:
 
+```bash
 python main.py
+```
 
 Aponte a câmera para uma mão com a intenção de formar letras em linguagem de sinais.
 
